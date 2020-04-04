@@ -1,0 +1,1972 @@
+fileFormatVersion: 2
+guid: 4e1fc0dab3f0ceb47afa25dc563192de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -907482618801627321
+    second: finalfantasy3_monsters_sheet_0
+  - first:
+      213: -5702353353428422166
+    second: finalfantasy3_monsters_sheet_1
+  - first:
+      213: -3805112414180956449
+    second: finalfantasy3_monsters_sheet_2
+  - first:
+      213: -4037278662509866599
+    second: finalfantasy3_monsters_sheet_3
+  - first:
+      213: 2238915160652232293
+    second: finalfantasy3_monsters_sheet_4
+  - first:
+      213: -7447608227044248783
+    second: finalfantasy3_monsters_sheet_5
+  - first:
+      213: 7072535625967097924
+    second: finalfantasy3_monsters_sheet_6
+  - first:
+      213: -1262242034261184341
+    second: finalfantasy3_monsters_sheet_7
+  - first:
+      213: 7383455446220950194
+    second: finalfantasy3_monsters_sheet_8
+  - first:
+      213: 1861061293629776238
+    second: finalfantasy3_monsters_sheet_9
+  - first:
+      213: 739504458274289594
+    second: finalfantasy3_monsters_sheet_10
+  - first:
+      213: -5094025711566660194
+    second: finalfantasy3_monsters_sheet_11
+  - first:
+      213: -5943728735810199457
+    second: finalfantasy3_monsters_sheet_12
+  - first:
+      213: 1668086307769366450
+    second: finalfantasy3_monsters_sheet_13
+  - first:
+      213: 5514890400256925121
+    second: finalfantasy3_monsters_sheet_14
+  - first:
+      213: -5981804369138174017
+    second: finalfantasy3_monsters_sheet_15
+  - first:
+      213: 26666537456269144
+    second: finalfantasy3_monsters_sheet_16
+  - first:
+      213: 2244906878184832471
+    second: finalfantasy3_monsters_sheet_17
+  - first:
+      213: 9016130300750629395
+    second: finalfantasy3_monsters_sheet_18
+  - first:
+      213: 2876705871114604803
+    second: finalfantasy3_monsters_sheet_19
+  - first:
+      213: -568513090503387419
+    second: finalfantasy3_monsters_sheet_20
+  - first:
+      213: 7645273583857071998
+    second: finalfantasy3_monsters_sheet_21
+  - first:
+      213: -4373192637333591274
+    second: finalfantasy3_monsters_sheet_22
+  - first:
+      213: -3406643449010590318
+    second: finalfantasy3_monsters_sheet_23
+  - first:
+      213: 8239003766670042228
+    second: finalfantasy3_monsters_sheet_24
+  - first:
+      213: -8399472249401691916
+    second: finalfantasy3_monsters_sheet_25
+  - first:
+      213: -944557091649366556
+    second: finalfantasy3_monsters_sheet_26
+  - first:
+      213: -2304387636640007986
+    second: finalfantasy3_monsters_sheet_27
+  - first:
+      213: -1222792627858515828
+    second: finalfantasy3_monsters_sheet_28
+  - first:
+      213: -3157324294437051166
+    second: finalfantasy3_monsters_sheet_29
+  - first:
+      213: -8955591049064871317
+    second: finalfantasy3_monsters_sheet_30
+  - first:
+      213: 6523147009899964202
+    second: finalfantasy3_monsters_sheet_31
+  - first:
+      213: -6373422000196562061
+    second: finalfantasy3_monsters_sheet_32
+  - first:
+      213: 3900918360736056264
+    second: finalfantasy3_monsters_sheet_33
+  - first:
+      213: 6508839900896133382
+    second: finalfantasy3_monsters_sheet_34
+  - first:
+      213: 4837301053407381813
+    second: finalfantasy3_monsters_sheet_35
+  - first:
+      213: -3054712760334311209
+    second: finalfantasy3_monsters_sheet_36
+  - first:
+      213: -1467227635776197280
+    second: finalfantasy3_monsters_sheet_37
+  - first:
+      213: -1091095099517130659
+    second: finalfantasy3_monsters_sheet_38
+  - first:
+      213: -6696022012819428137
+    second: finalfantasy3_monsters_sheet_39
+  - first:
+      213: -1078276830988318908
+    second: finalfantasy3_monsters_sheet_40
+  - first:
+      213: -3957970425579318736
+    second: finalfantasy3_monsters_sheet_41
+  - first:
+      213: 6352161377978083033
+    second: finalfantasy3_monsters_sheet_42
+  - first:
+      213: -7131009519116887804
+    second: finalfantasy3_monsters_sheet_43
+  - first:
+      213: 756530666565241132
+    second: finalfantasy3_monsters_sheet_44
+  - first:
+      213: 1627585436767835159
+    second: finalfantasy3_monsters_sheet_45
+  - first:
+      213: 817393899146291565
+    second: finalfantasy3_monsters_sheet_46
+  - first:
+      213: -6191736697500358696
+    second: finalfantasy3_monsters_sheet_47
+  - first:
+      213: 8265815271969225172
+    second: finalfantasy3_monsters_sheet_48
+  - first:
+      213: 164529857574102432
+    second: finalfantasy3_monsters_sheet_49
+  - first:
+      213: -4563255564532764798
+    second: finalfantasy3_monsters_sheet_50
+  - first:
+      213: 8570348294798433152
+    second: finalfantasy3_monsters_sheet_51
+  - first:
+      213: 6804053862451409202
+    second: finalfantasy3_monsters_sheet_52
+  - first:
+      213: -4082378792869315696
+    second: finalfantasy3_monsters_sheet_53
+  - first:
+      213: 971700398372555504
+    second: finalfantasy3_monsters_sheet_54
+  - first:
+      213: 1497713830207722024
+    second: finalfantasy3_monsters_sheet_55
+  - first:
+      213: -8521366471364631262
+    second: finalfantasy3_monsters_sheet_56
+  - first:
+      213: 4507370321238141920
+    second: finalfantasy3_monsters_sheet_57
+  - first:
+      213: 7959071511566281833
+    second: finalfantasy3_monsters_sheet_58
+  - first:
+      213: 2829917302859390938
+    second: finalfantasy3_monsters_sheet_59
+  - first:
+      213: 3385904823677470039
+    second: finalfantasy3_monsters_sheet_60
+  - first:
+      213: -2379902680320172493
+    second: finalfantasy3_monsters_sheet_61
+  - first:
+      213: -5843454219411024237
+    second: finalfantasy3_monsters_sheet_62
+  - first:
+      213: -658915071610129618
+    second: finalfantasy3_monsters_sheet_63
+  - first:
+      213: -7035642781273083325
+    second: finalfantasy3_monsters_sheet_64
+  - first:
+      213: 5880678325186929134
+    second: finalfantasy3_monsters_sheet_65
+  - first:
+      213: 2414260726643795451
+    second: finalfantasy3_monsters_sheet_66
+  - first:
+      213: 5591802521195178503
+    second: finalfantasy3_monsters_sheet_0
+  - first:
+      213: -3284428600394412333
+    second: finalfantasy3_monsters_sheet_1
+  - first:
+      213: 4210025365335008534
+    second: finalfantasy3_monsters_sheet_2
+  - first:
+      213: -8816948722205791820
+    second: finalfantasy3_monsters_sheet_3
+  - first:
+      213: -8761197275770003658
+    second: finalfantasy3_monsters_sheet_4
+  - first:
+      213: 9215674044197474345
+    second: finalfantasy3_monsters_sheet_5
+  - first:
+      213: -3109855373052862804
+    second: finalfantasy3_monsters_sheet_6
+  - first:
+      213: 5621596497192275618
+    second: finalfantasy3_monsters_sheet_7
+  - first:
+      213: -8712905599385205517
+    second: finalfantasy3_monsters_sheet_8
+  - first:
+      213: 2547396078984658668
+    second: finalfantasy3_monsters_sheet_9
+  - first:
+      213: 4214609824188813894
+    second: finalfantasy3_monsters_sheet_10
+  - first:
+      213: -6406719039037725922
+    second: finalfantasy3_monsters_sheet_11
+  - first:
+      213: -6702352406970122504
+    second: finalfantasy3_monsters_sheet_12
+  - first:
+      213: -2253334789017462327
+    second: finalfantasy3_monsters_sheet_13
+  - first:
+      213: 2518840833796833565
+    second: finalfantasy3_monsters_sheet_14
+  - first:
+      213: -4183112775649756527
+    second: finalfantasy3_monsters_sheet_15
+  - first:
+      213: 1076167233834013155
+    second: finalfantasy3_monsters_sheet_16
+  - first:
+      213: -7173475938349695197
+    second: finalfantasy3_monsters_sheet_17
+  - first:
+      213: -7991459094582084373
+    second: finalfantasy3_monsters_sheet_18
+  - first:
+      213: -2155896121886702153
+    second: finalfantasy3_monsters_sheet_19
+  - first:
+      213: 8175203259551320715
+    second: finalfantasy3_monsters_sheet_20
+  - first:
+      213: 8322694438290565758
+    second: finalfantasy3_monsters_sheet_21
+  - first:
+      213: 3694876746035769992
+    second: finalfantasy3_monsters_sheet_22
+  - first:
+      213: -1482728591875192134
+    second: finalfantasy3_monsters_sheet_23
+  - first:
+      213: 8890833506335769264
+    second: finalfantasy3_monsters_sheet_24
+  - first:
+      213: 6246154602091681414
+    second: finalfantasy3_monsters_sheet_25
+  - first:
+      213: 8309533452101415843
+    second: finalfantasy3_monsters_sheet_26
+  - first:
+      213: 3626599187887802398
+    second: finalfantasy3_monsters_sheet_27
+  - first:
+      213: -414911369280868236
+    second: finalfantasy3_monsters_sheet_28
+  - first:
+      213: 1227700282732256981
+    second: finalfantasy3_monsters_sheet_29
+  - first:
+      213: -18097504294858508
+    second: finalfantasy3_monsters_sheet_30
+  - first:
+      213: 7150205012569281094
+    second: finalfantasy3_monsters_sheet_31
+  - first:
+      213: 5305484541645910181
+    second: finalfantasy3_monsters_sheet_32
+  - first:
+      213: -4819526004800020582
+    second: finalfantasy3_monsters_sheet_33
+  - first:
+      213: -5695722997498829932
+    second: finalfantasy3_monsters_sheet_34
+  - first:
+      213: -3786190091415434178
+    second: finalfantasy3_monsters_sheet_35
+  - first:
+      213: 6204726926851831408
+    second: finalfantasy3_monsters_sheet_36
+  - first:
+      213: 214141233305173412
+    second: finalfantasy3_monsters_sheet_37
+  - first:
+      213: 3920902229741457495
+    second: finalfantasy3_monsters_sheet_38
+  - first:
+      213: 4703500687775735145
+    second: finalfantasy3_monsters_sheet_39
+  - first:
+      213: -2485770697541111882
+    second: finalfantasy3_monsters_sheet_40
+  - first:
+      213: -796662245431507215
+    second: finalfantasy3_monsters_sheet_41
+  - first:
+      213: 5661045583792948416
+    second: finalfantasy3_monsters_sheet_42
+  - first:
+      213: 633509012746159626
+    second: finalfantasy3_monsters_sheet_43
+  - first:
+      213: -3946390000356267666
+    second: finalfantasy3_monsters_sheet_44
+  - first:
+      213: -4237704798155808289
+    second: finalfantasy3_monsters_sheet_45
+  - first:
+      213: 1412641272111646801
+    second: finalfantasy3_monsters_sheet_46
+  - first:
+      213: -2267356677207584994
+    second: finalfantasy3_monsters_sheet_47
+  - first:
+      213: 2508754999146178016
+    second: finalfantasy3_monsters_sheet_48
+  - first:
+      213: -7307163138782324007
+    second: finalfantasy3_monsters_sheet_49
+  - first:
+      213: 3480717032192257637
+    second: finalfantasy3_monsters_sheet_50
+  - first:
+      213: -759310020651341774
+    second: finalfantasy3_monsters_sheet_51
+  - first:
+      213: 962893625487554287
+    second: finalfantasy3_monsters_sheet_52
+  - first:
+      213: 7847579554688408730
+    second: finalfantasy3_monsters_sheet_53
+  - first:
+      213: 8761142880478647798
+    second: finalfantasy3_monsters_sheet_54
+  - first:
+      213: -8773820493086630662
+    second: finalfantasy3_monsters_sheet_55
+  - first:
+      213: 7061562797940425646
+    second: finalfantasy3_monsters_sheet_56
+  - first:
+      213: -675800153314977942
+    second: finalfantasy3_monsters_sheet_57
+  - first:
+      213: 1591135739434813610
+    second: finalfantasy3_monsters_sheet_58
+  - first:
+      213: 8841271327178410689
+    second: finalfantasy3_monsters_sheet_59
+  - first:
+      213: 4621765161219489550
+    second: finalfantasy3_monsters_sheet_60
+  - first:
+      213: 5325041015715210771
+    second: finalfantasy3_monsters_sheet_61
+  - first:
+      213: 922752241365569416
+    second: finalfantasy3_monsters_sheet_62
+  - first:
+      213: 4358528963070140444
+    second: finalfantasy3_monsters_sheet_63
+  - first:
+      213: 3635752150400565471
+    second: finalfantasy3_monsters_sheet_64
+  - first:
+      213: -261653177899539009
+    second: finalfantasy3_monsters_sheet_65
+  - first:
+      213: -174908785210257973
+    second: finalfantasy3_monsters_sheet_66
+  - first:
+      213: -1221960716640640889
+    second: finalfantasy3_monsters_sheet_67
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 717
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae8f134c21a9d40800000000000000
+      internalID: 5591802521195178503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 717
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de8b5fe69d5b62d0800000000000000
+      internalID: -3284428600394412333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 679
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6156d2c93c30d6a30800000000000000
+      internalID: 4210025365335008534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 725
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e612f9d7e3a580800000000000000
+      internalID: -8816948722205791820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 725
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fdb9a1f79f96680800000000000000
+      internalID: -8761197275770003658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 717
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209d2a67b6a4ef70800000000000000
+      internalID: 9215674044197474345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 655
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae1852d30397d4d0800000000000000
+      internalID: -3109855373052862804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 655
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aec9bdca3ce30e40800000000000000
+      internalID: 5621596497192275618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 642
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f40223358a851780800000000000000
+      internalID: -8712905599385205517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 641
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee7a16bc3b2a5320800000000000000
+      internalID: 2547396078984658668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 642
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64255ad1e4d4d7a30800000000000000
+      internalID: 4214609824188813894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 643
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13ac6e6af2c617a0800000000000000
+      internalID: -6406719039037725922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 577
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8febf071ff57cf2a0800000000000000
+      internalID: -6702352406970122504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 577
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c99594b2fb8ab0e0800000000000000
+      internalID: -2253334789017462327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 583
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1185389468b4f220800000000000000
+      internalID: 2518840833796833565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 577
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a7ff7f71992f5c0800000000000000
+      internalID: -4183112775649756527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 585
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1579bb5605fee00800000000000000
+      internalID: 1076167233834013155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 577
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fbad904a1b27c90800000000000000
+      internalID: -7173475938349695197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 577
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becbe564b42a81190800000000000000
+      internalID: -7991459094582084373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 515
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b50d4a46e7b412e0800000000000000
+      internalID: -2155896121886702153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 507
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a0c2cec08247170800000000000000
+      internalID: 8175203259551320715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 507
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aad600f76208370800000000000000
+      internalID: 8322694438290565758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 515
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882305003d6d64330800000000000000
+      internalID: 3694876746035769992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 507
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac6f6933a4c6be0800000000000000
+      internalID: -1482728591875192134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2c846e7f5926b70800000000000000
+      internalID: 8890833506335769264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 437
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68698dd548ccea650800000000000000
+      internalID: 6246154602091681414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 438
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3fabd16a4615370800000000000000
+      internalID: 8309533452101415843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 445
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18c5c03fb4445230800000000000000
+      internalID: 3626599187887802398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 413
+        width: 50
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4703eb4de40fd3af0800000000000000
+      internalID: -414911369280868236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 445
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de17ea07eaa90110800000000000000
+      internalID: 1227700282732256981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 375
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f01f2d6a64bfbff0800000000000000
+      internalID: -18097504294858508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 367
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642d8655391aa3360800000000000000
+      internalID: 7150205012569281094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 367
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0712ab41ed0a940800000000000000
+      internalID: 5305484541645910181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 375
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f132232aa9d1db0800000000000000
+      internalID: -4819526004800020582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 375
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932f0b6c1ab4f0b0800000000000000
+      internalID: -5695722997498829932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 367
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c44150c20c47bc0800000000000000
+      internalID: -3786190091415434178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 297
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076fd43144e9b1650800000000000000
+      internalID: 6204726926851831408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 297
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad3bee2158c8f200800000000000000
+      internalID: 214141233305173412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 297
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d6caddc7d96630800000000000000
+      internalID: 3920902229741457495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 297
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d9daf84f0364140800000000000000
+      internalID: 4703500687775735145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 297
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfacf388b4c08dd0800000000000000
+      internalID: -2485770697541111882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 297
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6071f98efa1f4f0800000000000000
+      internalID: -796662245431507215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 227
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c54707f2109e40800000000000000
+      internalID: 5661045583792948416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 233
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064eb2371daac800800000000000000
+      internalID: 633509012746159626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 227
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e696c9b143b9b39c0800000000000000
+      internalID: -3946390000356267666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 227
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd164fa30f5a035c0800000000000000
+      internalID: -4237704798155808289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 235
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584543a0c5ba9310800000000000000
+      internalID: 1412641272111646801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 236
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8ee37d1bb880e0800000000000000
+      internalID: -2267356677207584994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 227
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5e7983163e0d220800000000000000
+      internalID: 2508754999146178016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 157
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da1d0d17ddb79a90800000000000000
+      internalID: -7307163138782324007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ea87bf2bdfd4030800000000000000
+      internalID: 3480717032192257637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 165
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238aea82f836675f0800000000000000
+      internalID: -759310020651341774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 166
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe67ca796a2ec5d00800000000000000
+      internalID: 962893625487554287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 157
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c12d7d60438ec60800000000000000
+      internalID: 7847579554688408730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 157
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f55f510805d59970800000000000000
+      internalID: 8761142880478647798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 87
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc578a4fb02d3680800000000000000
+      internalID: -8773820493086630662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 71
+        width: 95
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34a5273f5bff160800000000000000
+      internalID: 7061562797940425646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 95
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67918257531f96f0800000000000000
+      internalID: -675800153314977942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8c07a5689d41610800000000000000
+      internalID: 1591135739434813610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 87
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac053dd6182ba70800000000000000
+      internalID: 8841271327178410689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 95
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f73cd4deec32040800000000000000
+      internalID: 4621765161219489550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316271c279856e940800000000000000
+      internalID: 5325041015715210771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f4a4a46464ecc00800000000000000
+      internalID: 922752241365569416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 17
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c102c0bdffa9c7c30800000000000000
+      internalID: 4358528963070140444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00df75159c47230800000000000000
+      internalID: 3635752150400565471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb522fc22db6e5cf0800000000000000
+      internalID: -261653177899539009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 17
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd8275f269929df0800000000000000
+      internalID: -174908785210257973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalfantasy3_monsters_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 716
+        width: 213
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7802723d339ba0fe0800000000000000
+      internalID: -1221960716640640889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
