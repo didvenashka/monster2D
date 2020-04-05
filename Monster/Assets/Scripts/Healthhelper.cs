@@ -18,7 +18,7 @@ public class Healthhelper : MonoBehaviour
         int health = Health - damage;
         if (health <= 0)
         {
-            _gameHelper.PlayerGold += Gold;
+            _gameHelper.TakeGold(Gold);
             Destroy(gameObject);
         }
         Health = health;
