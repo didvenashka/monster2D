@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b2386129ea611ba46a392b7e8167c117
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: New york shadow grunge
+  fontNames:
+  - New york shadow grunge
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 519d9f0af2b14014fb89401d15d64499, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
